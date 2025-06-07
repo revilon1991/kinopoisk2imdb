@@ -1,5 +1,7 @@
 # Консольное приложение для переноса фильмов с КиноПоиска на IMDb
 
+[![In English](https://img.shields.io/badge/Switch_To-English-green.svg?style=flat-square)](./README.md)
+
 Это консольное приложение на Go поможет поэтапно перенести списки фильмов с сайта [КиноПоиск](https://www.kinopoisk.ru) на сайт [IMDb](https://www.imdb.com).
 
 ## ⚙️ Требования

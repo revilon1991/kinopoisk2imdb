@@ -1,5 +1,7 @@
 # CLI Tool for Transferring Movies from Kinopoisk to IMDb
 
+[![На Русском](https://img.shields.io/badge/Перейти_на-Русский-green.svg?style=flat-square)](./README.RU.md)
+
 This is a Go-based CLI tool designed to help you transfer your movie lists from [Kinopoisk](https://www.kinopoisk.ru) to [IMDb](https://www.imdb.com) step by step.
 
 ## ⚙️ Requirements
