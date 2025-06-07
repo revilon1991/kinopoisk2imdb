@@ -61,7 +61,7 @@ Each stage is triggered manually by uncommenting the corresponding function in `
    go run main.go
    ```
 
-Лицензия
+License
 -------
 
 [![license](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](./LICENSE)

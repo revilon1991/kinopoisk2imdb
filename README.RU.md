@@ -61,7 +61,7 @@
    go run main.go
    ```
 
-License
+Лицензия
 -------
 
 [![license](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](./LICENSE)
